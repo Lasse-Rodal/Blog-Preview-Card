@@ -38,8 +38,6 @@ Users should be able to:
 - Solution URL: [https://github.com/Lasse-Rodal/Blog-Preview-Card.git]
 - Live Site URL: [https://lasse-rodal.github.io/Blog-Preview-Card/]
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
