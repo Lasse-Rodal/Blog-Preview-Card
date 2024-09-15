@@ -52,4 +52,4 @@ This challenge helped me practice my CSS and HTML skills. Additionally, I gained
 
 ## Author
 
-- Github - [Lasse Rodal Pedersen](https://github.com/Lasse-Rodal?tab=repositories)
+- Github - [Lasse Rodal Pedersen](https://github.com/Lasse-Rodal)
