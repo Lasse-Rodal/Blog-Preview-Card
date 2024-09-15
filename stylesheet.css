@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@500;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --primary-color: hsl(47, 88%, 63%);
+    --secondary-color: hsl(0, 0%, 100%);
+    --gray-500: hsl(0, 0%, 42%);
+    --gray-950: hsl(0, 0%, 7%);
+    --font-family: 'Figtree', sans-serif;
+  }
+  
+  /* Layout */
+  body {
+    font-family: 'Figtree', sans-serif;
+    background-color: var(--primary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    padding: 16px;
+  }
+  
+  .card {
+    background: var(--secondary-color);
+    border: 1px solid var(--gray-950);
+    border-radius: 8px;
+    box-shadow: 4px 6px;
+    max-width: 400px;
+    width: 100%;
+    margin: 16px;
+    padding: 16px;
+  }
+
+
+  /* Card image */
+.card-image {
+  display: block;
+  margin: 12px;
+  border-radius: 16px;
+  max-width: 100%;
+  height: auto;
+}
+
+  /* Typography */
+
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: fit-content;
+    font-size: 16px;
+    font-weight: 800;
+    background-color: var(--secondary-color);
+    border-radius: 3px;
+    padding: 8px 16px;
+    margin-bottom: 16px;
+  }
+
+  .card-title {
+    font-size: 24px;
+    margin: 16px 0;
+    color: var(--gray-950);
+  }
+  
+  .card-title:hover{
+    color: var(--primary-color);
+  }
+
+  .card-description {
+    font-weight: 500;
+    color: var(--gray-500);
+  }
+  
+  .card-date {
+    color: var(--gray-500);
+  }
+
+  /* Button */
+  .card-button {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 800;
+    color: var(--gray-950);
+    background-color: var(--primary-color);
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    width: fit-content;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 0;
+  }
+  
+  .card-button:hover {
+    background-color: orange;
+  }
+  
+  .card-button:focus {
+    outline: 3px solid black;
+    outline-offset: 2px;
+  }
+
+   /* Author photo & name */
+  .author-info {
+    display: flex;
+    align-items: center;
+    margin-top: 16px;
+  }
+
+  .author-photo {
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    margin: 12px;
+  }  
+  
+  .author-name {
+    font-size: 16px;
+    font-weight: 800;
+    color: var(--gray-950);
+  }
+
+/* Attribution text styling */
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+
+/* Styling for links within attribution */
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    }
+
