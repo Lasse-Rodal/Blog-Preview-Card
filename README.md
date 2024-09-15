@@ -21,16 +21,22 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshots
 
-![Desktop version](/screenshots/blog-preview-card desktop.png)
+<details>
+  <summary>Desktop version</summary>
+  <img src="assets/screenshots/blog-preview-card-desktop.png" alt="Desktop version" width="600"/>
+</details>
 
-![Mobile Version](/screenshots/blog-preview-card mobile.png)
+<details>
+  <summary>Mobile version</summary>
+  <img src="assets/screenshots/blog-preview-card-mobile.png" alt="Mobile version" width="300"/>
+</details>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Lasse-Rodal/Blog-Preview-Card.git]
+- Live Site URL: [https://lasse-rodal.github.io/Blog-Preview-Card/]
 
 ## My process
 
@@ -40,10 +46,11 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- Responsive design
 
 ### What I learned
 
-This challange helped me practice my css and html skills.
+This challenge helped me practice my CSS and HTML skills. Additionally, I gained experience in writing README.md files and using GitHub.
 
 ## Author
 
