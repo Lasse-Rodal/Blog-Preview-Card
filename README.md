@@ -25,12 +25,12 @@ Users should be able to:
 
 <details>
   <summary>Desktop version</summary>
-  <img src="assets/screenshots/blog-preview-card-desktop.png" alt="Desktop version" width="600"/>
+  <img src="assets/Screenshots/blog-preview-card-desktop.png" alt="Desktop version" width="600"/>
 </details>
 
 <details>
   <summary>Mobile version</summary>
-  <img src="assets/screenshots/blog-preview-card-mobile.png" alt="Mobile version" width="300"/>
+  <img src="assets/Screenshots/blog-preview-card-mobile.png" alt="Mobile version" width="300"/>
 </details>
 
 ### Links
